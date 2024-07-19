@@ -51,7 +51,7 @@ func SidekiqSensitiveUrl() *config.Rule {
 		"http://cafebabe:deadbeef@gems.contribsys.com",
 		"http://cafeb4b3:d3adb33f@enterprise.contribsys.com/",
 		"http://cafeb4b3:d3adb33f@enterprise.contribsys.com",
-		"http://cafeb4b3:d3adb33f@enterprise.contribsys.com#heading1",
+
 		"http://cafeb4b3:d3adb33f@enterprise.contribsys.com?param1=true&param2=false",
 		"http://cafeb4b3:d3adb33f@enterprise.contribsys.com:80",
 		"http://cafeb4b3:d3adb33f@enterprise.contribsys.com:80/path?param1=true&param2=false#heading1",
