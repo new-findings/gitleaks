@@ -3,6 +3,7 @@
 import os
 import sys
 import subprocess
+import subprocess
 
 
 def gitleaksEnabled():
